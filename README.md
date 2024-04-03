@@ -1,2 +1,1 @@
-# Trojan.Js.Offiz-2.0-You-are-not-an-idiot
-Trojan.Js.Offiz 2.0: You Are (Not) an Idiot
+A simple JS trojan based on the Trojan.JS.Offiz (YouAreAnIdiot) program formerly found on the website youareanidiot.org. Spawns an annoying number of moving, unclosable pop-up windows proclaiming the excellence of US Representative Tim Burchett (TN-02). Made for educational use by the Farragut High School Computer Science Club. 
